@@ -1,0 +1,30 @@
+/* 
+--- Pseudo class selector ---
+:link = style default pada link
+:visited = style ketika link sudah pernah dikunjungi
+:hover = style ketika kursor mouse berada diatas link
+:active = style ketika link dalam keadaan aktif/di-klik */
+
+.navigasi:link {
+    color: red;
+}
+
+.navigasi:visited {
+    color: yellow;
+}
+
+.navigasi:hover {
+    color: blue;
+}
+
+.navigasi:active {
+    color: white;
+}
+
+ul li a:link {
+    color: red;
+}
+ul li a:hover {
+    background-color: red;
+    color: blue;
+}

@@ -1,0 +1,15 @@
+/* Tag */
+h2 {
+    color: blue;
+}
+p {
+    color: blue;
+}
+/* Class */
+.merah {
+    color: red;
+}
+/* Id */
+#yellow {
+    color: yellow;
+}
