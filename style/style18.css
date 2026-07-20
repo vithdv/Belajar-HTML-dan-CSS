@@ -1,0 +1,13 @@
+a input {
+    display: block;
+    margin-top: 5px;
+}
+ul li {
+    /* display: inline; */
+    display: inline-block;
+    height: 200px;
+    width: 100px;
+    background-color: lawngreen;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
