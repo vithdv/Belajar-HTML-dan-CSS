@@ -1,0 +1,14 @@
+hr {
+    /* border-width: 5px;
+    border-style: solid;
+    border-color: blue; */
+    border: 1px solid blue;
+}
+.lv {
+    width: 200px;
+    height: 200px;
+    border-left-style: solid;
+    border-top-style: double;
+    border-right-style: dashed;
+    border-bottom-style: dotted;
+}
