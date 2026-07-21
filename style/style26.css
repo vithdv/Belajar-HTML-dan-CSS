@@ -1,0 +1,19 @@
+table {
+    margin: 50px auto;
+    border-spacing: 0px;
+    border-collapse: collapse;
+}
+th {
+    background-color: teal;
+    color: white;
+    padding: 10px;
+    border: 1px solid black;
+}
+td {
+    padding: 10px;
+    /* border: 1px solid teal; */
+    border-top: 1px solid teal;
+}
+tr:nth-child(even) {
+    background-color: bisque;
+}
